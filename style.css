@@ -1,0 +1,14 @@
+body {
+    background-color: slateblue;
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 25% 65% auto;
+
+    
+}
+
+
+
+
+
+
